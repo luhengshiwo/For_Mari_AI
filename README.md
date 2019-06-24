@@ -1,4 +1,4 @@
-# Mulit Text Classification with Text-cnn
+# Sentiment Analysis with GRU
 
 ## Requirements
 ```
